@@ -7,7 +7,7 @@ global + per-robot motion controls and camera follow.
 
 | |
 |---|
-| GitHub Pages: `https://czpdc8jw99-tech.github.io/Football-Robot/` |
+| GitHub Pages: `https://renforce-dynamics.github.io/soccerWeber/` |
 
 ## ✨ Features
 
@@ -74,3 +74,7 @@ npm run build
 | |
 |---|
 | We welcome external contributions! If you have suggestions, wish to add support for a new asset configuration, or improve alignment parameters, please feel free to open an issue or submit a pull request. |
+
+## 🙏 Acknowledgements
+
+- The project structure and single-robot baseline are based on [Axellwppr/humanoid-policy-viewer](https://github.com/Axellwppr/humanoid-policy-viewer).
