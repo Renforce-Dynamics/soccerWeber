@@ -5,9 +5,7 @@ global + per-robot motion controls and camera follow.
 
 ## 🌐 Demo
 
-| |
-|---|
-| GitHub Pages: `https://renforce-dynamics.github.io/soccerWeber/` |
+You can try it on the [GitHub Pages](https://renforce-dynamics.github.io/soccerWeber/).
 
 ## ✨ Features
 
@@ -71,9 +69,7 @@ npm run build
 
 ## 🤝 Contribution
 
-| |
-|---|
-| We welcome external contributions! If you have suggestions, wish to add support for a new asset configuration, or improve alignment parameters, please feel free to open an issue or submit a pull request. |
+- We welcome external contributions! If you have suggestions, wish to add support for a new asset configuration, or improve alignment parameters, please feel free to open an issue or submit a pull request.
 
 ## 🙏 Acknowledgements
 
